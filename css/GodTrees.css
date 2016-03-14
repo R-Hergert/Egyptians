@@ -1,0 +1,223 @@
+.photo {
+	position:absolute;
+}
+.text {
+	text-align:center;
+	position:absolute;
+	font-weight:bold;
+	font-size:20px;
+}
+
+/*         Gods       */
+
+#Mehet-Weret {
+	margin-top:20px;
+}
+#Mehet-Weret-text {
+	margin-left:10px;
+}
+
+#Nu {
+	margin-top:20px;
+	margin-left: 220px;
+}
+#Nu-text {
+	margin-left: 270px;
+}
+
+#Neith {
+	margin-left:420px;
+	margin-top:20px;
+}
+#Neith-text {
+	margin-left:460px;
+}
+
+#Khnum {
+	margin-left:630px;
+	margin-top:20px;
+}
+#Khnum-text {
+	margin-left:660px;
+}
+
+#Satet {
+	margin-top:20px;
+	margin-left:1000px;
+}
+#Satet-text {
+	margin-left:1040px;
+}
+
+#Anuket {
+	margin-top:63px;
+	margin-left:790px;
+}
+#Anuket-text {
+	margin-left:825px;
+	margin-top:43px;
+}
+
+#Sobek {
+	margin-top:241px;
+}
+#Sobek-text {
+	margin-left:20px;
+	margin-top:221px;
+}
+
+#Atum {
+	margin-top:241px;
+	margin-left:155px;
+}
+#Atum-text {
+	margin-top:221px;
+	margin-left:205px;
+}
+
+#Ra {
+	margin-left:365px;
+	margin-top:241px;
+}
+#Ra-text {
+	margin-top:221px;
+	margin-left:420px;
+}
+
+#Amun {
+	margin-left:560px;
+	margin-top:241px;
+}
+#Amun-text {
+	margin-top:221px;
+	margin-left:610px;
+}
+
+#Mut {
+	margin-left:731px;
+	margin-top:241px;
+}
+#Mut-text {
+	margin-left:780px;
+	margin-top:221px;
+}
+
+#Apep {
+	margin-left:900px;
+	margin-top:241px;
+}
+#Apep-text {
+	margin-left:930px;
+	margin-top:221px;
+}
+
+#Amun-Ra {
+	margin-left:480px;
+	margin-top:393px;
+}
+#Amun-Ra-text {
+	margin-left:510px;
+	margin-top:373px;
+}
+
+
+/*     Lines             */
+
+
+
+.horizontal {
+	position:absolute;
+	height:3px;
+	background-color:black;
+}
+#connect1 {
+	width:900px;
+	margin-top:198px;
+	margin-left:64px;
+}
+#Khnum-Satet{
+	margin-left:718px;
+	margin-top:30px;
+	width:282px;
+}
+#Ra-Amun {
+	width:100px;
+	margin-top:340px;
+	margin-left:493px;
+}
+#Amun-Mut {
+	width:120px;
+	margin-top:340px;
+	margin-left:670px;
+}
+
+
+
+.vertical {
+	width:3px;
+	position:absolute;
+	background-color:black;
+}
+
+#Mehet-Weret-off {
+	height:50px;
+	margin-left:64px;
+	margin-top:148px;
+}
+#Nu-off {
+	height:50px;
+	margin-left:280px;
+	margin-top:148px;
+}
+#Neith-off {
+	height:50px;
+	margin-left:484px;
+	margin-top:148px;
+}
+#Khnum-off {
+	height:50px;
+	margin-left:694px;
+	margin-top:148px;
+}
+
+#Anuket-on {
+	height:10px;
+	margin-left:855px;
+	margin-top:33px;
+}
+
+#Sobek-on {
+	height:20px;
+	margin-left:64px;
+	margin-top:201px;
+}
+
+#Atum-on {
+	height:20px;
+	margin-left:230px;
+	margin-top:201px;
+}
+
+#Ra-on {
+	height:20px;
+	margin-left:430px;
+	margin-top:201px;
+}
+
+#Amun-on {
+	height:20px;
+	margin-left:640px;
+	margin-top:201px;
+}
+
+#Apep-on {
+	height:20px;
+	margin-left:961px;
+	margin-top:201px;
+}
+
+#Amun-Ra-on {
+	margin-left:550px;
+	height:30px;
+	margin-top:343px;
+}
