@@ -786,5 +786,12 @@
 
 #extraspace {
 	height:1px;
-	margin-top:3000px;
+	margin-top:2000px;
+}
+
+#help {
+	margin-left:620px;
+	margin-top:420px;
+	position:absolute;
+	font-size:20px;
 }

@@ -1,0 +1,29 @@
+.text  {position:absolute;}
+.Photo {	position:absolute;
+			margin-top:20px;}
+.P1 {
+	margin-left:200px;
+}
+.P2 {
+	margin-left:400px;
+}
+.P3 {
+	margin-left:600px;
+}
+.P4 {
+	margin-left:800px;
+}
+.P5 {
+	margin-top:200px;
+}
+
+.P5-photo {
+	margin-top:220px;
+}
+.Sons {
+	margin-top:-25px;
+}
+.text {
+	font-size:18px;
+	font-weight:bold;
+}
