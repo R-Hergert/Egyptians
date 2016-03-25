@@ -80,7 +80,7 @@
 	margin-top:241px;
 }
 #Ra-text {
-	margin-top:221px;
+	margin-top:217px;
 	margin-left:420px;
 }
 
@@ -103,11 +103,20 @@
 }
 
 #Apep {
-	margin-left:900px;
+	margin-left:850px;
 	margin-top:241px;
 }
 #Apep-text {
-	margin-left:930px;
+	margin-left:880px;
+	margin-top:221px;
+}
+
+#Khepri {
+	margin-left:980px;
+	margin-top:241px;
+}
+#Khepri-text {
+	margin-left:1020px;
 	margin-top:221px;
 }
 
@@ -120,9 +129,225 @@
 	margin-top:373px;
 }
 
+#Serket {
+	margin-left:295px;
+	margin-top:441px;
+}
+#Serket-text {
+	margin-left:340px;
+	margin-top:421px;
+}
 
+#Shu {
+	margin-left:143px;
+	margin-top:454px;
+}
+#Shu-text {
+	margin-left:200px;
+	margin-top:431px;
+}
+
+#Tefnut {
+	margin-left:20px;
+	margin-top:454px;
+}
+#Tefnut-text {
+	margin-left:35px;
+	margin-top:431px;
+}
+
+#Nut {
+	margin-left:153px;
+	margin-top:650px;
+}
+#Nut-text {
+	margin-left:210px;
+	margin-top:630px;
+}
+
+#Geb {
+	margin-left:-5px;
+	margin-top:650px;
+}
+#Geb-text {
+	margin-left:45px;
+	margin-top:630px;
+}
+
+#Set {
+	margin-left:-5px;
+	margin-top:836px;
+}
+#Set-text {
+	margin-left:50px;
+	margin-top:816px;
+}
+
+#Nephthys {
+	margin-left:153px;
+	margin-top:840px;
+}
+#Nephthys-text {
+	margin-left:190px;
+	margin-top:816px;
+}
+
+#Osiris {
+	margin-left:314px;
+	margin-top:840px;
+}
+#Osiris-text {
+	margin-left:360px;
+	margin-top:816px;
+}
+
+#Isis {
+	margin-left:470px;
+	margin-top:840px;
+}
+#Isis-text {
+	margin-left:530px;
+	margin-top:816px;
+}
+
+#Ra2 {
+	margin-left:831px;
+	margin-top:840px;
+}
+#Ra2-text {
+	margin-left:885px;
+	margin-top:800px;
+	border-style:dotted;
+	border-color:black;
+	border-width:2px;
+}
+
+#Anubis {
+	margin-left:220px;
+	margin-top:1000px;
+
+}
+#Anubis-text{
+	margin-left:270px;
+	margin-top:980px;
+}
+
+#Horus{
+	margin-left:380px;
+	margin-top:1000px;
+
+}
+#Horus-text{
+	margin-left:430px;
+	margin-top:980px;
+}
+
+#Anput {
+	margin-left:60px;
+	margin-top:1000px;
+
+}
+#Anput-text{
+	margin-left:100px;
+	margin-top:980px;
+}
+
+#Serket2{
+	margin-left:550px;
+	margin-top:1000px;
+
+}
+#Serket2-text{
+	margin-left:600px;
+	margin-top:980px;
+	border-style:dotted;
+	border-color:black;
+	border-width:2px;
+}
+
+#Kebechet {
+	margin-top:1163px;
+	margin-left:140px;
+}
+#Kebechet-text{
+	margin-top:1143px;
+	margin-left:160px;
+}
+
+#Sons-of-Horus {
+	margin-top:1163px;
+	margin-left:470px;
+}
+#Sons-of-Horus-text{
+	margin-top:1138px;
+	margin-left:450px;
+}
+
+#Sekhmet{
+	margin-left:680px;
+	margin-top:1000px;
+
+}
+#Sekhmet-text{
+	margin-left:720px;
+	margin-top:980px;
+}
+
+#Ptah{
+	margin-left:1000px;
+	margin-top:1000px;
+
+}
+#Ptah-text{
+	margin-left:1030px;
+	margin-top:980px;
+}
+
+#Maashes {
+	margin-top:1163px;
+	margin-left:770px;
+}
+#Maashes-text{
+	margin-top:1138px;
+	margin-left:800px;
+}
+
+#Nefertum {
+	margin-top:1163px;
+	margin-left:910px;
+}
+#Nefertum-text{
+	margin-top:1138px;
+	margin-left:940px;
+}
+
+#Hathor {
+	margin-top:609px;
+	margin-left:365px;
+}
+#Hathor-text {
+	margin-top: 585px;
+	margin-left:415px;
+}
+
+#Maat {
+	margin-top:609px;
+	margin-left:565px;
+}
+#Maat-text {
+	margin-top: 585px;
+	margin-left:615px;
+}
+
+#Bastet {
+	margin-top:609px;
+	margin-left:765px;
+}
+#Bastet-text {
+	margin-top: 585px;
+	margin-left:815px;
+}
 /*     Lines             */
-
 
 
 .horizontal {
@@ -131,7 +356,7 @@
 	background-color:black;
 }
 #connect1 {
-	width:900px;
+	width:1000px;
 	margin-top:198px;
 	margin-left:64px;
 }
@@ -150,7 +375,77 @@
 	margin-top:340px;
 	margin-left:670px;
 }
+#connect2 {
+	width:126px;
+	margin-top:398px;
+	margin-left:303px;
+}
+#connect3 {
+	width:164px;
+	margin-top:406px;
+	margin-left:64px;
+}
+#Tefnut-Shu {
+	width:40px;
+	margin-left:123px;
+	margin-top:554px;
 
+}
+#Ras-Children {
+	margin-top:566px;
+	margin-left:442px;
+	width:400px;
+}
+#connect4 {
+	width:164px;
+	margin-top:607px;
+	margin-left:64px;
+}
+#Geb-Nut {
+	width:60px;
+	margin-left:113px;
+	margin-top:750px;
+}
+#connect5 {
+	width:486px;
+	margin-top:793px;
+	margin-left:64px;
+}
+#Set-Nephthys {
+	width:70px;
+	margin-left:110px;
+	margin-top:936px;
+}
+#Nephthys-Osiris {
+	width:70px;
+	margin-left:271px;
+	margin-top:936px;
+}
+#Osiris-Isis {
+	width:60px;
+	margin-left:432px;
+	margin-top:936px;
+}
+#Isis-Ra {
+	width:251px;
+	margin-left:580px;
+	margin-top:936px;
+}
+#Anput-Anubis {
+	width:75px;
+	margin-left:165px;
+	margin-top:1100px;
+}
+#Horus-Serket {
+	width:68px;
+	margin-left:500px;
+	margin-top:1100px;
+}
+#Sekhmet-Ptah {
+	width:250px;
+	margin-left:790px;
+	margin-top:1100px;
+}
 
 
 .vertical {
@@ -212,12 +507,284 @@
 
 #Apep-on {
 	height:20px;
-	margin-left:961px;
+	margin-left:901px;
 	margin-top:201px;
+}
+
+#Khepri-on {
+	height:20px;
+	margin-left:1061px;
+	margin-top:201px;
+}
+
+#connect1-off {
+	height:200px;
+	margin-left:300px;
+	margin-top:201px;
+}
+
+#Ra-off {
+	height:32px;
+	margin-left:429px;
+	margin-top:369px;
 }
 
 #Amun-Ra-on {
 	margin-left:550px;
 	height:30px;
 	margin-top:343px;
+}
+
+#Serket-on {
+	margin-left:365px;
+	height:20px;
+	margin-top:401px;
+}
+
+#Ra-off2 {
+	height:220px;
+	margin-left:439px;
+	margin-top:369px;
+}
+
+#Atum-off {
+	height:40px;
+	margin-left:225px;
+	margin-top:369px;
+}
+
+#Shu-on {
+	height:20px;
+	margin-left:225px;
+	margin-top:409px;
+}
+
+#Tefnut-on {
+	height:20px;
+	margin-left:64px;
+	margin-top:409px;
+}
+
+#Tefnut-Shu-off {
+	height:50px;
+	margin-top:557px;
+	margin-left:142px;
+}
+
+#Geb-on {
+	height:20px;
+	margin-left:64px;
+	margin-top:610px;
+}
+
+#Nut-on {
+	height:20px;
+	margin-left:225px;
+	margin-top:610px;
+}
+
+#Geb-Nut-off {
+	margin-left:142px;
+	margin-top:753px;
+	height:40px;
+}
+
+#Set-on {
+	height:20px;
+	margin-left:64px;
+	margin-top:796px;
+}
+
+#Nephthys-on {
+	height:20px;
+	margin-left:225px;
+	margin-top:796px;
+}
+
+#Osiris-on {
+	height:20px;
+	margin-left:386px;
+	margin-top:796px;
+}
+
+#Isis-on {
+	height:20px;
+	margin-left:547px;
+	margin-top:796px;
+}
+
+#Anubis-on {
+	margin-left:305px;
+	height:40px;
+	margin-top:939px;
+}
+
+#Horus-on {
+	margin-left:460px;
+	height:40px;
+	margin-top:939px;
+}
+
+#Kebechet-on {
+	margin-left:205px;
+	margin-top:1103px;
+	height:40px;
+}
+
+#Sons-of-Horus-on {
+	margin-left:535px;
+	margin-top:1103px;
+	height:40px;
+}
+
+#Sekhmet-on {
+	margin-left:760px;
+	height:40px;
+	margin-top:939px;
+}
+
+#Maashes-on {
+	margin-left:840px;
+	margin-top:1103px;
+	height:40px;
+}
+
+#Nefertum-on {
+	margin-left:980px;
+	margin-top:1103px;
+	height:40px;
+}
+
+#Maat-on {
+	height:20px;
+	margin-left:639px;
+	margin-top:569px;
+}
+
+#Bastet-on {
+	height:20px;
+	margin-left:839px;
+	margin-top:569px;
+}
+
+
+
+#Thoth {
+	margin-top:1410px;
+}
+#Thoth-text {
+	margin-top:1380px;
+	margin-left:40px;
+}
+
+#Seshat {
+	margin-top:1610px;
+}
+#Seshat-text {
+	margin-top:1580px;
+	margin-left:35px;
+}
+
+#Seshat-on {
+	height:40px;
+	margin-left:80px;
+	margin-top:1540px;
+}
+
+#Taweret {
+	margin-top:1410px;
+	margin-left:200px;
+}
+#Taweret-text {
+	margin-top:1380px;
+	margin-left:230px;
+}
+
+#Bes {
+	margin-top:1410px;
+	margin-left:400px;
+}
+#Bes-text {
+	margin-top:1380px;
+	margin-left:445px;
+}
+
+#Taweret-Bes {
+	margin-top:1490px;
+	margin-left:318px;
+	width:85px;
+}
+
+#Qetesh {
+	margin-top:1410px;
+	margin-left:600px;
+}
+#Qetesh-text {
+	margin-top:1380px;
+	margin-left:630px;
+}
+
+#Reshep {
+	margin-top:1410px;
+	margin-left:800px;
+}
+#Reshep-text {
+	margin-top:1380px;
+	margin-left:845px;
+}
+
+#Qetesh-Reshep {
+	margin-top:1490px;
+	margin-left:728px;
+	width:100px;
+}
+
+#Aten {
+	margin-top:1610px;
+	margin-left:200px;
+}
+#Aten-text {
+	margin-top:1580px;
+	margin-left:235px;
+}
+
+#Babi {
+	margin-top:1610px;
+	margin-left:400px;
+}
+#Babi-text {
+	margin-top:1580px;
+	margin-left:435px;
+}
+
+#Apis {
+	margin-top:1610px;
+	margin-left:600px;
+}
+#Apis-text {
+	margin-top:1580px;
+	margin-left:635px;
+}
+
+#Nekhbet {
+	margin-top:1610px;
+	margin-left:800px;
+}
+#Nekhbet-text {
+	margin-top:1580px;
+	margin-left:835px;
+}
+
+#Wadjet {
+	margin-top:1610px;
+	margin-left:1000px;
+}
+#Wadjet-text {
+	margin-top:1580px;
+	margin-left:1035px;
+}
+
+#extraspace {
+	height:1px;
+	margin-top:3000px;
 }
